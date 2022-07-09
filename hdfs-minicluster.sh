@@ -136,4 +136,5 @@ main() {
 
 main "$@"
 exit 0
-main
+test01
+test01 01
